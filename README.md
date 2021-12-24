@@ -16,4 +16,4 @@ ptr_CDS_example.fa: fasta files of CDS sequence of ptr
 
 ptr.gtf.zip: GTF files of ptr, which should be unzipped before running EGIO
 
-## go back to EGIO https://github.com/wu-lab-egio/EGIO/blob/main/README.md
+## go back to EGIO https://github.com/wu-lab-egio/EGIO
